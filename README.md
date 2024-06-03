@@ -4,7 +4,7 @@
 A full stack developer and slasher.  
   
 
-- 🌱 I’m currently learning Web3  
+- 🌱 I am interested in AI and web3
   
 
 - 🔭 I firmly believe that technology can change the world  
