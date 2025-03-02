@@ -13,7 +13,9 @@ A full stack developer and slasher.
 - 🔑 I am an open-source enthusiast  
   
 
-- ⚡ Welcome to communicate and cooperate with me  
+- ⚡ Welcome to communicate and cooperate with me
+
+- 🦀 Love Rust. Currently learning graphic, shader, and compiler.
   
 
 <br/>  
