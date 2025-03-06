@@ -1,10 +1,7 @@
 # Hi there👋I'm Guo cork  
   
 
-A full stack developer and slasher.  
-  
-
-- 🌱 I am interested in AI and web3
+A Rustacean.
   
 
 - 🔭 I firmly believe that technology can change the world  
