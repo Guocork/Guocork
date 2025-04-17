@@ -12,7 +12,7 @@ A Rustacean.
 
 - ⚡ Welcome to communicate and cooperate with me
 
-- 🦀 Love Rust. Currently learning graphic, shader, and compiler.
+- 🦀 Love Rust.  Graphic  Shader  Compiler
   
 
 <br/>  
