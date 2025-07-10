@@ -1,7 +1,7 @@
 # Hi there👋I'm Guo cork  
   
 
-A Rustacean.
+A Rustacean in need of a job.
   
 
 - 🔭 I firmly believe that technology can change the world  
